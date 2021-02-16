@@ -1,0 +1,24 @@
+{
+  "name": "BEE",
+  "logoURI": "https://github.com/Alex1985ok/-/blob/main/0089ZFUXly8gj1uoqdmjkj30u00u0t9t.jpg",
+  "keywords": [
+      "BEESWAP",
+      "BEE",
+    ],
+    "timestamp": "2021-02-17T02:05:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x1c464e0d7f6976EABe52b5333eB2C4F4eA032789",
+      "name": "BEESWAP",
+      "symbol": "BEE",
+      "decimals": 18,
+      "logoURI": "https://github.com/Alex1985ok/-/blob/main/0089ZFUXly8gj1uoqdmjkj30u00u0t9t.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
